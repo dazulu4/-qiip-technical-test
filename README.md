@@ -1,2 +1,2 @@
-# -qiip-technical-test
+# qiip-technical-test
 Prueba Técnica - Analítica para Qiip
