@@ -1,2 +1,2 @@
 # qiip-technical-test
-Prueba Técnica - Analítica para Qiip
+Prueba Técnica - Científico de Datos Qiip
